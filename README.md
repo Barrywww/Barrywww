@@ -7,8 +7,9 @@ I'm Yuchen (Barry) Wang, a Software Engineering student and an aspiring full-sta
 Currently, I am seeking 2023 Summer internship opportunities and full-time jobs. Want to know more about me? Check out [my blog](https://nmgit.net/en) and [my bio](https://me.nmgit.net) here.
 
 - 🌱 I’m pursuing a Master degree in Software Engineering at Carnegie Mellon University.
-- 💬 Ask me about travelling, food, and game (and code, of course!).
+- 💬 Ask me about traveling, food, and game (and code, of course!).
 - 📫 How to reach me: [barrywang@cmu.edu](mailto:barrywang@cmu.edu)
+- 
 
 
 ## 📝 Latest Blog Posts
