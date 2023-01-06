@@ -9,7 +9,6 @@ Currently, I am seeking 2023 Summer internship opportunities and full-time jobs.
 - 🌱 I’m pursuing a Master degree in Software Engineering at Carnegie Mellon University.
 - 💬 Ask me about traveling, food, and game (and code, of course!).
 - 📫 How to reach me: [barrywang@cmu.edu](mailto:barrywang@cmu.edu)
-- 
 
 
 ## 📝 Latest Blog Posts
