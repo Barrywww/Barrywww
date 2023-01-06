@@ -2,7 +2,7 @@
 [![WORDPRESS](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://nmgit.net)
 
 ### Hi there👋! 
-I'm Yuchen (Barry) Wang, a Software Engineering student and an aspiring full-stack engineer. I specialize in front-end development. I make it my mission to translate user requirements to software with pleasing interface, perfect interaction experiences and elegant code.
+I'm Yuchen (Barry) Wang, a Software Engineering student and an aspiring full-stack engineer with speciality in front-end development. I make it my mission to translate user requirements to software with pleasing interface, perfect interaction experiences and elegant code.
 
 Currently, I am seeking 2023 Summer internship opportunities and full-time jobs. Want to know more about me? Check out [my blog](https://nmgit.net/en) and [my bio](https://me.nmgit.net) here.
 
