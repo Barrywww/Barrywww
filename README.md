@@ -17,10 +17,10 @@ Currently, I am seeking 2023 Summer internship opportunities and full-time jobs.
 
 <!-- BLOG-POST-LIST:START -->
 - [[en_US](https://nmgit.net/en/2022/566/) | [zh_CN](https://nmgit.net/2022/532/)] Let's Talk About Git Flow
-- [[en_US](https://nmgit.net/en/2022/567/) | [zh_CN](https://nmgit.net/2022/502/)] Implement Editable Cells and Table with Ant.d
-- [[en_US](https://nmgit.net/en/2022/568/) | [zh_CN](https://nmgit.net/2022/420/)] JavaScript Eventlook Explained in Detail
+- [[en_US](https://nmgit.net/en/2022/567/) | [zh_CN](https://nmgit.net/2022/502/)] Implement Editable Cells and Tables with Ant.d
+- [[en_US](https://nmgit.net/en/2022/568/) | [zh_CN](https://nmgit.net/2022/420/)] JavaScript Eventloop Explained in Detail
 - [[en_US](https://nmgit.net/en/2021/569/) | [zh_CN](https://nmgit.net/2021/293/)] CORS Request & CSRF Attack
-- [[en_US](https://nmgit.net/en/2020/562/) | [zh_CN](https://nmgit.net/2020/150/)] Pandas Performance Optimization: Vecotrization
+- [[en_US](https://nmgit.net/en/2020/562/) | [zh_CN](https://nmgit.net/2020/150/)] Optimize Pandas Performance: Vectorization
 
 <!-- BLOG-POST-LIST:END -->
 
