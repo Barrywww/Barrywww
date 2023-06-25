@@ -2,13 +2,9 @@
 [![WORDPRESS](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://nmgit.net)
 
 ### Hi there👋! 
-I'm Yuchen (Barry) Wang, a Master of Software Engineering student at Carnegie Mellon University, and an aspiring full-stack engineer with a specialty in front-end development. I make it my mission to translate user requirements into software with perfect interaction experiences and elegant code.
+I'm Yuchen (Barry) Wang, an aspiring full-stack engineer with a specialty in front-end development. I make it my mission to translate user requirements into software with perfect interaction experiences and elegant code.
 
-Currently, I am seeking 2023 Summer internship opportunities and full-time jobs. Want to know more about me? Check out [my blog](https://nmgit.net/en) and [my bio](https://me.nmgit.net) here.
-
-- 🌱 I’m pursuing a Master degree in Software Engineering at Carnegie Mellon University.
-- 💬 Ask me about traveling, food, and game (and code, of course!).
-- 📫 How to reach me: [barrywang@cmu.edu](mailto:barrywang@cmu.edu)
+Currently, I am full-time jobs as Front-end / Full Stack software engineer. Want to know more about me? Check out [my blog](https://nmgit.net/en) and [my bio](https://me.nmgit.net) here.
 
 
 ## 📝 Latest Blog Posts
