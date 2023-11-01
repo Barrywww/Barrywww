@@ -18,13 +18,6 @@ Currently, I am full-time jobs as Front-end / Full Stack software engineer. Want
 - [[en_US](https://nmgit.net/en/2021/569/) | [zh_CN](https://nmgit.net/2021/293/)] CORS Request & CSRF Attack
 - [[en_US](https://nmgit.net/en/2020/562/) | [zh_CN](https://nmgit.net/2020/150/)] Optimize Pandas Performance: Vectorization
 
-<!-- BLOG-POST-LIST:END -->
-
-## &#x1f4c8; GitHub Stats
-
-<div style="display:flex; justify-content:center; align-items:center; max-width: fit-content">
-    <img style="margin-left:1rem; height: 100%" src="https://github-readme-stats.vercel.app/api?username=Barrywww&show_icons=true&line_height=27&count_private=true" alt="Martin's GitHub Stats" />
-</div>
 
 ## 💼 Skills
 
