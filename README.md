@@ -4,7 +4,7 @@
 ### Hi there👋! 
 I'm Yuchen (Barry) Wang, an aspiring full-stack engineer with a specialty in front-end development. I make it my mission to translate user requirements into software with perfect interaction experiences and elegant code.
 
-Currently, I am full-time jobs as Front-end / Full Stack software engineer. Want to know more about me? Check out [my blog](https://nmgit.net/en) and [my bio](https://me.nmgit.net) here.
+Currently, I am seeking full-time jobs as Front-end / Full Stack software engineer. Want to know more about me? Check out [my blog](https://nmgit.net/en) and [my bio](https://me.nmgit.net) here.
 
 
 ## 📝 Latest Blog Posts
