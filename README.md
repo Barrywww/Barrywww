@@ -12,11 +12,11 @@ Currently, I am seeking full-time jobs as Front-end / Full Stack software engine
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [[en_US](https://nmgit.net/en/2022/566/) | [zh_CN](https://nmgit.net/2022/532/)] Let's Talk About Git Flow
-- [[en_US](https://nmgit.net/en/2022/567/) | [zh_CN](https://nmgit.net/2022/502/)] Implement Editable Cells and Tables with Ant.d
-- [[en_US](https://nmgit.net/en/2022/568/) | [zh_CN](https://nmgit.net/2022/420/)] JavaScript Eventloop Explained in Detail
-- [[en_US](https://nmgit.net/en/2021/569/) | [zh_CN](https://nmgit.net/2021/293/)] CORS Request & CSRF Attack
-- [[en_US](https://nmgit.net/en/2020/562/) | [zh_CN](https://nmgit.net/2020/150/)] Optimize Pandas Performance: Vectorization
+- [[English](https://nmgit.net/en/2022/566/) | [中文](https://nmgit.net/2022/532/)] Let's Talk About Git Flow
+- [[English](https://nmgit.net/en/2022/567/) | [中文](https://nmgit.net/2022/502/)] Implement Editable Cells and Tables with Ant.d
+- [[English](https://nmgit.net/en/2022/568/) | [中文](https://nmgit.net/2022/420/)] JavaScript Eventloop Explained in Detail
+- [[English](https://nmgit.net/en/2021/569/) | [中文](https://nmgit.net/2021/293/)] CORS Request & CSRF Attack
+- [[English](https://nmgit.net/en/2020/562/) | [中文](https://nmgit.net/2020/150/)] Optimize Pandas Performance: Vectorization
 
 
 ## 💼 Skills
